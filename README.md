@@ -24,7 +24,7 @@ O sistema vai se logar no banco em localhost:3306/carddb com usuário _root_ e s
 
 Clone o repositório:
 
-git clone https://github.com/seu-repo/api-cartoes.git
+git clone https://github.com/lucasmartinello/visa.git
 cd api-cartoes
 
 
