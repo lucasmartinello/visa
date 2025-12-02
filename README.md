@@ -20,6 +20,10 @@ Todas as requisições são armazenadas na tabela api_logs no banco
 No MySQL criar schema chamado carddb antes de rodar a aplicação. Ao rodar o sistema vai criar as tabelas e inserir o usuário admin <br>
 O sistema vai se logar no banco em localhost:3306/carddb com usuário _root_ e senha _root_
 
+## 📘 Contrato da API
+Pode-se consultar o contrato na pasta docs/api-contrato.md
+
+
 ## ▶️ Como executar
 
 Clone o repositório:
