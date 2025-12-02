@@ -30,4 +30,8 @@ public class Card {
         this.id = id;
     }
     public String getCardHash() { return cardHash; }
+
+    public String getEncryptedCard() {
+        return encryptedCard;
+    }
 }
